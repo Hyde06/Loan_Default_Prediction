@@ -3,8 +3,8 @@ Data Analytics and Classifiers for Loan Defaults
 
 Three submissions using the following algorithms:
 
-Logistic Regression
-Decision Trees
+Logistic Regression,
+Decision Trees and
 Random forest
 
 Data:
